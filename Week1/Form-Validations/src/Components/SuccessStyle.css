@@ -1,0 +1,31 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body, #root {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;  
+    background-color: rgb(223, 223, 223);
+  }
+  
+   .success{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 500px;
+    padding: 20px;  
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+    border-radius: 8px;  
+  }
