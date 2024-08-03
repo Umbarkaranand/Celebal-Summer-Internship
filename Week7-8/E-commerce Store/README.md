@@ -10,25 +10,7 @@ Welcome to the React + Vite template! This template provides a minimal setup to 
 ![Alt Text](https://portfoliosa417.blob.core.windows.net/voltagephotos/basketecommerce.png)
 
 
-# Video Link
-- https://youtu.be/iErrToQQ4lA?si=1a0DL5OkiZ1FhOuh 
-  
 
-# NodeJs code 
-- https://github.com/ilkin-ibadov/ecommerceBackend.git
-
-## Features
-
-- **Fast Refresh with Babel or SWC**: Choose between Babel and SWC for fast and reliable hot module replacement.
-- **Minimal Setup**: Get started with React in Vite with minimal configuration.
-- **ESLint Rules**: Pre-configured ESLint rules to help you maintain code quality.
-
-## Plugins
-
-Currently, two official plugins are available for this template:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) - Uses [Babel](https://babeljs.io/) for Fast Refresh.
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Uses [SWC](https://swc.rs/) for Fast Refresh.
 
 ## How to Use
 
